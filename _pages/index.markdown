@@ -7,13 +7,15 @@ I am an Assistant Professor in the Social Science Division at New York Universit
 
 My work in economic history is focused on the development of the British state. Several of my papers use the British experience to test theories in political economy, such as the effects of democratization on government spending. Another strand of research investigates the role of the state in Britain's mortality decline.
 
-My research in behavioral economics focuses on eliciting behavioral preferences in broad populations, and using the data to draw implications for behavioral theory. 
+My research in behavioral economics focuses on eliciting behavioral preferences in broad populations, as part of the [World Econographics Project]({{ site.baseurl }}{% http://www.its.caltech.edu/~snowberg/wep.html %}). Through a series A number of papers use evidence from representative and incentivized, surveys to investigate 
+
+
 
 **Updates
 
 * Awarded the 2020 T.S. Ashton Prize for the best article by a junior scholar in the _Economic History Review_ for <br> "The Contribution of Infrastructure Investment to Britain's Urban Mortality Decline 1861-1900."
 * Updated: "Extension of the Franchise and Government Expenditure on Public Goods: Evidence from Nineteenth-Century England."
 * New Working Paper: "Financing Sanitation Infrastructure in Nineteenth-Century England and Wales."
-* [New Working Paper] ({{ site.baseurl }}{% link assets/pdf/poorlaw.pdf %}): "Democracy, Redistribution, and Inequality: Evidence from the English Poor Law."
+* [New Working Paper]({{ site.baseurl }}{% link assets/pdf/poorlaw.pdf %}): "Democracy, Redistribution, and Inequality: Evidence from the English Poor Law."
 
 
