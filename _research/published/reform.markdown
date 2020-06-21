@@ -5,7 +5,7 @@ order: 1
 
 #### [Democratic Reform and Opposition to Government Expenditure: Evidence from Nineteenth-Century Britain.](https://www.nowpublishers.com/article/Details/QJPS-17024)
 
-Quarterly Journal of Political Science, Vol. 13: No. 4, pp 363-404 (2018).
+_Quarterly Journal of Political Science_, Vol. 13: No. 4, pp 363-404 (2018).
 
 [Download Paper]({{ site.baseurl }}{% link assets/pdf/reform.pdf %})
 
