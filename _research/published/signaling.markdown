@@ -7,7 +7,9 @@ order: 2
 
 (with Matthew Chao)
 
-Accepted at Journal of Economic Behavior & Organization
+Forthcoming at _Journal of Economic Behavior & Organization_
+
+Idea: Some individuals pay to publically signal reciprocity, even at the cost of the person they are reciprocating to.
 
 ##### Abstract
 
