@@ -17,5 +17,5 @@ My research in behavioral economics focuses on eliciting behavioral preferences 
 * Updated March 2020: "Extension of the Franchise and Government Expenditure on Public Goods: Evidence from Nineteenth-Century England."
 * New Working Paper: "Financing Sanitation Infrastructure in Nineteenth-Century England and Wales."
 * [New Working Paper]({{ site.baseurl }}{% link assets/pdf/poorlaw.pdf %}): "Democracy, Redistribution, and Inequality: Evidence from the English Poor Law."
-@ulend
+
 
