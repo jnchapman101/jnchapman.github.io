@@ -3,7 +3,7 @@ type: published
 order: 2
 ---
 
-#### [Saving Face Through Preference Signaling and Obligation Avoidance.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446274)
+#### [Saving Face Through Preference Signaling and Obligation Avoidance.](https://www.sciencedirect.com/science/article/pii/S0167268120300998)
 
 (with Matthew Chao)
 
