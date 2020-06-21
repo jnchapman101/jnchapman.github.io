@@ -14,4 +14,4 @@ United Arab Emirates<br>
 
 ### Email
 
-<jnchapman@nyu.edu>
+<jchapman@nyu.edu>
