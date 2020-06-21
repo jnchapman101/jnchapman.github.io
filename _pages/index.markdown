@@ -7,7 +7,7 @@ I am an Assistant Professor in the Social Science Division at New York Universit
 
 My work in economic history is focused on the development of the British state. Several of my papers use the British experience to test theories in political economy, such as the effects of democratization on government spending. Another strand of research investigates the role of the state in Britain's mortality decline.
 
-My research in behavioral economics focuses on eliciting behavioral preferences in broad populations, as part of the [World Econographics Project](http://www.its.caltech.edu/~snowberg/wep.html). In a series of papers we use data from incentivized, representative surveys to investigate relationships between different behavioral preferences, and between economic preferences and socio-demographic characteristics.
+My research in behavioral economics focuses on eliciting behavioral preferences in broad populations, as part of the [World Econographics Project](http://www.its.caltech.edu/~snowberg/wep.html). In a series of papers we use data from incentivized, representative, surveys to investigate the relationships between different behavioral preferences, and between economic preferences and socio-demographic characteristics.
 
 
 
