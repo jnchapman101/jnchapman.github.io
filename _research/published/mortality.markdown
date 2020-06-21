@@ -11,6 +11,8 @@ Awarded 2020 T.S. Ashton Prize for best paper in the _Economic History Review_ b
 
 [Download Paper]({{ site.baseurl }}{% link assets/pdf/mortality.pdf %})
 
+<ins>Idea:</ins> Sanitation infrastructure significantly reduced urban mortality from waterborne, and maybe airborne, disease.
+
 ##### Abstract
 
 It is well-recognized that both improved nutrition and sanitation
