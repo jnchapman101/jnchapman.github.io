@@ -11,7 +11,7 @@ My research in behavioral economics focuses on eliciting behavioral preferences 
 
 
 
-**Updates
+**Updates**
 
 * Awarded the 2020 T.S. Ashton Prize for the best article by a junior scholar in the _Economic History Review_ for <br> "The Contribution of Infrastructure Investment to Britain's Urban Mortality Decline 1861-1900."
 * Updated March 2020: "Extension of the Franchise and Government Expenditure on Public Goods: Evidence from Nineteenth-Century England."
