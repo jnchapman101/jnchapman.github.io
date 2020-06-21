@@ -9,6 +9,8 @@ _Quarterly Journal of Political Science_, Vol. 13: No. 4, pp 363-404 (2018).
 
 [Download Paper]({{ site.baseurl }}{% link assets/pdf/reform.pdf %})
 
+<ins> Spending on public goods higher where elites are middle class. Evidence using 1894 legislative change as a natural experiment.
+
 ##### Abstract
 
 Several theories have argued that democratic reform will lead to higher
