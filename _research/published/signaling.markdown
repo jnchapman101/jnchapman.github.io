@@ -9,7 +9,7 @@ order: 2
 
 Forthcoming at _Journal of Economic Behavior & Organization_
 
-Idea: Some individuals pay to publically signal reciprocity, even at the cost of the person they are reciprocating to.
+<ins>Idea</ins>: Some individuals pay to publically signal reciprocity, even at the cost of the person they are reciprocating to.
 
 ##### Abstract
 
