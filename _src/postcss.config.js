@@ -6,6 +6,10 @@ module.exports = {
       content: [
         "../**/*.html",
         { raw: '<div class="navbar-menu is-active"></div>', extension: "html" },
+        {
+          raw: '<div class="is-collapsible is-active"></div>',
+          extension: "html",
+        },
       ],
     }),
     require("cssnano")({

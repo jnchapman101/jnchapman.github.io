@@ -1,5 +1,4 @@
 ---
-type: other
 ---
 
 Book Review of _The River Pollution Dilemma in Victorian England: Nuisance Law Versus Economic E.fficiency_. By Leslie Rosenthal. Farnham: Ashgate, 2014. Australian Economic History Review, November 2015.

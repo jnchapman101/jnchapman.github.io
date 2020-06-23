@@ -1,0 +1,21 @@
+$collapse-transition-speed: 0.2s;
+$collapse-transition-style: ease;
+
+.is-collapsible {
+  height: 0;
+  overflow-y: hidden;
+  transition: height $collapse-transition-speed $collapse-transition-style;
+
+  &.is-active {
+    height: auto;
+    transition: height $collapse-transition-speed $collapse-transition-style;
+  }
+}
+
+.nojs .is-collapsible {
+  height: auto;
+}
+
+.nojs .is-collapsible-toggle {
+  display: none;
+}

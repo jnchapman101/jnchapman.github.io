@@ -1,8 +1,0 @@
-{% assign papers = site.research | sort : "order" %}
-{% for item in papers %}
-{% if item.type == include.type %}
-<div class="container content">
-{{ item.content }}
-</div>
-{% endif %}
-{% endfor %}

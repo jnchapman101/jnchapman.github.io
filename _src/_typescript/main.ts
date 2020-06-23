@@ -1,3 +1,19 @@
+const nearestToggle = (collapsible: Element): HTMLElement | null => {
+  let element: Element | null = collapsible;
+
+  while (element !== null) {
+    const toggle = element.querySelector(".is-collapsible-toggle");
+
+    if (toggle !== null) {
+      return toggle;
+    }
+
+    element = element.parentElement;
+  }
+
+  return null;
+};
+
 (function () {
   if (document.readyState === "loading") {
     return function (f: () => void) {
@@ -25,4 +41,22 @@
       }
     });
   }
+
+  Array.from(document.querySelectorAll(".is-collapsible")).forEach(
+    (element) => {
+      const toggle = nearestToggle(element);
+
+      if (toggle !== null) {
+        toggle.addEventListener("click", () => {
+          if (element.className === "container content is-collapsible") {
+            element.className = "container content is-collapsible is-active";
+            toggle.textContent = "Less";
+          } else {
+            element.className = "container content is-collapsible";
+            toggle.textContent = "More";
+          }
+        });
+      }
+    }
+  );
 });

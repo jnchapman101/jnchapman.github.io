@@ -1,5 +1,4 @@
 ---
-type: wip
 ---
 
 The Historical Development of Fiscal and Legal Capacity in England and Wales, with Tim Besley, Dan Bogart and Nuno Palma.

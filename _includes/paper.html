@@ -1,0 +1,11 @@
+{% assign main = include.paper | append: "/main.markdown" %}
+{% assign more = include.paper | append: "/more.markdown" %}
+<div class="mb-4">
+  <div class="container content">
+    {{ site.research | where: "path", main }}
+    <button class="button is-link is-collapsible-toggle">More</button>
+  </div>
+  <div class="container content is-collapsible">
+    {{ site.research | where: "path", more }}
+  </div>
+</div>
