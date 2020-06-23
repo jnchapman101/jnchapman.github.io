@@ -1,34 +1,37 @@
-const nearestToggle = (collapsible: Element): HTMLElement | null => {
-  let element: Element | null = collapsible;
+const isHTMLElement = (element: Element): element is HTMLElement => {
+  return element.nodeType === element.ELEMENT_NODE;
+};
 
-  while (element !== null) {
-    const toggle = element.querySelector(".is-collapsible-toggle");
+const nearest = (
+  element: HTMLElement,
+  selector: string
+): HTMLElement | null => {
+  let current: Element | null = element;
 
-    if (toggle !== null) {
-      return toggle;
+  while (current !== null) {
+    const found = current.querySelector(selector);
+
+    if (found !== null && isHTMLElement(found)) {
+      return found;
     }
 
-    element = element.parentElement;
+    current = current.parentElement;
   }
 
   return null;
 };
 
-(function () {
+((f: () => void) => {
   if (document.readyState === "loading") {
-    return function (f: () => void) {
-      document.addEventListener("DOMContentLoaded", f);
-    };
-  }
-
-  return function (f: () => void) {
+    document.addEventListener("DOMContentLoaded", f);
+  } else {
     f();
-  };
-})()(function () {
+  }
+})(function () {
   document.documentElement.className = "";
 
-  var burger = document.getElementById("burger");
-  var navbar = document.getElementById("navbar");
+  const burger = document.getElementById("burger");
+  const navbar = document.getElementById("navbar");
 
   if (burger !== null && navbar !== null) {
     burger.addEventListener("click", function () {
@@ -44,20 +47,20 @@ const nearestToggle = (collapsible: Element): HTMLElement | null => {
 
   Array.from(document.querySelectorAll(".is-collapsible")).forEach(
     (element) => {
-      const toggle = nearestToggle(element);
+      if (isHTMLElement(element)) {
+        const toggle = nearest(element, ".is-collapsible-toggle");
 
-      if (toggle !== null) {
-        toggle.addEventListener("click", () => {
-          if (element.className === "container content is-collapsible") {
-            element.className = "container content is-collapsible is-active";
-            (element as any).style.cssText = `height: ${element.scrollHeight}px`;
-            toggle.textContent = "Less";
-          } else {
-            element.className = "container content is-collapsible";
-            (element as any).style.cssText = `height: 0px`;
-            toggle.textContent = "More";
-          }
-        });
+        if (toggle !== null) {
+          toggle.addEventListener("click", () => {
+            if (element.clientHeight === 0) {
+              element.style.cssText = `height: ${element.scrollHeight}px`;
+              toggle.textContent = "Less";
+            } else {
+              element.style.cssText = `height: 0px`;
+              toggle.textContent = "More";
+            }
+          });
+        }
       }
     }
   );
