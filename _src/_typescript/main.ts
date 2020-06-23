@@ -50,9 +50,11 @@ const nearestToggle = (collapsible: Element): HTMLElement | null => {
         toggle.addEventListener("click", () => {
           if (element.className === "container content is-collapsible") {
             element.className = "container content is-collapsible is-active";
+            (element as any).style.cssText = `height: ${element.scrollHeight}px`;
             toggle.textContent = "Less";
           } else {
             element.className = "container content is-collapsible";
+            (element as any).style.cssText = `height: 0px`;
             toggle.textContent = "More";
           }
         });

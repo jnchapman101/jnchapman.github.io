@@ -2,11 +2,11 @@
   "name": "jnchapman.com",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/karlspalding/jnchapman.github.io",
+  "repository": "https://github.com/jnchapman101/jnchapman.github.io",
   "author": "Karl Spalding Wall <karl@swallsoft.com>",
   "license": "MIT",
   "scripts": {
-    "lint": "prettier --write '../**/*'",
+    "lint": "prettier --write '../**/*' && yarn tsc",
     "make:css": "node-sass _sass/main.scss --source-map true --source-map-embed true --source-map-contents true | postcss -o ../css/main.css",
     "make:js": "yarn -s tsc | yarn uglifyjs --config-file uglify.config.json -o ../js/main.js",
     "make": "yarn make:css && yarn make:js"

@@ -2,14 +2,9 @@ $collapse-transition-speed: 0.2s;
 $collapse-transition-style: ease;
 
 .is-collapsible {
-  height: 0;
+  height: 0px;
   overflow-y: hidden;
   transition: height $collapse-transition-speed $collapse-transition-style;
-
-  &.is-active {
-    height: auto;
-    transition: height $collapse-transition-speed $collapse-transition-style;
-  }
 }
 
 .nojs .is-collapsible {
