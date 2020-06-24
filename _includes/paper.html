@@ -1,6 +1,6 @@
 {% assign main = include.paper | append: "/main.markdown" %}
 {% assign more = include.paper | append: "/more.markdown" %}
-<div class="mb-4">
+<div class="mb-4 ml-4">
   <div class="container content">
     {{ site.research | where: "path", main }}
     <button class="button is-link is-collapsible-toggle">Click for Abstract</button>
