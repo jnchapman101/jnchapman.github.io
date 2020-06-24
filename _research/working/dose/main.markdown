@@ -9,3 +9,5 @@ with Erik Snowberg, Colin Camerer and Stephanie Wang
 [Working Paper]({{ site.baseurl }}{% link assets/pdf/dose.pdf %}) (March 2019)
 
 [NBER Paper](https://www.nber.org/papers/w25072) (November 2018)
+
+<ins>Idea:</ins> Only around half the U.S. population are loss tolerant. Introduces new technique (DOSE) to estimate economic preference parameters.
