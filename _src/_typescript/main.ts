@@ -57,7 +57,7 @@ const nearest = (
               toggle.textContent = "Less";
             } else {
               element.style.cssText = `height: 0px`;
-              toggle.textContent = "More";
+              toggle.textContent = "Click for Abstract";
             }
           });
         }
