@@ -9,4 +9,4 @@ with Mark Dean, Pietro Ortoleva, Erik Snowberg, and Colin Camerer.
 
 [NBER Paper](https://www.nber.org/papers/w24931) (August 2018)
 
-<ins>Idea:</ins> Studies the correlation betweeen behavioral economic measures in a large-scale representative-sample incentivized survey. Find clear patterns.
+<ins>Idea:</ins> Finds clear patterns of correlations betweeen behavioral economic measures in a large-scale representative-sample incentivized survey. 
