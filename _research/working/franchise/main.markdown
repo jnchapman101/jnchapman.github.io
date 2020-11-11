@@ -1,12 +1,13 @@
 ---
 ---
 
-#### Extension of the Franchise and Government Expenditure on Public Goods: Evidence from Nineteenth-Century England.
+#### The Extent of the Franchise and Government Spending: A Non-Monotonic Relationship in Nineteenth-Century England.
+(Extension of the Franchise and Government Expenditure on Public Goods: Evidence from Nineteenth-Century England)
 
-<ins> Idea:</ins> Extending voting rights to the poor leads to lower spending on public goods: toy model and empirical evidence.  
+<ins> Idea:</ins> After a certain point extending voting rights to poorer citizens leads to lower spending on public goods.  
 
-NEW VERSION MARCH 2020, Under Review
+NEW VERSION SEPTEMBER 2020, Under Review
 
-[Working Paper]({{ site.baseurl }}{% link assets/pdf/franchise.pdf %})
+[Working Paper]({{ site.baseurl }}{% link assets/pdf/Chapman_franchiseTaxes_23092020.pdf %})
 
 
