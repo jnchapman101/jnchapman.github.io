@@ -5,6 +5,6 @@
 
 Under Review
 
-[Working Paper]({{ site.baseurl }}{% link assets/pdf/poorlaw.pdf %})
+[Working Paper]({{ site.baseurl }}{% link assets/pdf/poorLawPolicyAug2020.pdf %})
 
 <ins> Idea:</ins> Democratization led to higher welfare spending in high inequality areas, consistent with theoretical models.  
