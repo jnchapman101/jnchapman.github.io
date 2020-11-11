@@ -3,24 +3,5 @@
 
 ##### Abstract
 
-Many theories of democratization suggest that extending the right to
-vote will lead to increased government expenditure (e.g. Meltzer and
-Richard, 1981; Lizzeri and Persico, 2004; Acemoglu and Robinson, 2000).
-However, these models frequently assume that government can engage in
-transfer expenditure, which is often not true for local governments.
-This paper presents a model in which government expenditure is limited
-to the provision of public goods. The model predicts that the poor and
-the rich desire lower public goods expenditure than the middle class:
-the rich because of the relatively high tax burden, and the poor
-because of a high marginal utility of consumption. Consequently
-extensions of the franchise to the poor can be associated with
-declines in government expenditure on public goods. This prediction
-is tested using a new dataset of local government financial accounts
-in England between 1867 and 1900, which captures government expenditure
-on key infrastructure projects that are not included in many studies
-of national democratic reform. The empirical analysis, by exploiting
-plausibly exogenous variation in the extent of the franchise, shows
-strong support for the theoretical prediction: expenditure increased
-following relatively small extensions of the franchise, but fell
-following extensions of the franchise beyond around 50% of the adult
-male population.
+This paper investigates how extending the franchise affected government spending in British towns between 1867 and 1900. The effect of franchise extension is identified by exploiting extensive regional and temporal variation in the right to vote. The results show robust evidence of an inverted U-shaped relationship: extending the right to vote from the rich to the middle class led to increased spending, but further franchise extensions---beyond around 50% of the adult male population---led to lower expenditure. Further, government spending was lower in towns where the poor were enfranchised by national reforms, in contrast to the predictions of many theoretical models of democratization. Analysis of local newspaper reports also demonstrates that working class citizens resisted higher expenditure. A simple model, supported by historical evidence, explains these results by emphasizing the trade-offs between public spending and private consumption faced by poor voters. Many theories of democratization suggest that extending the right to
+vote will lead to increased government expenditure (e.g. Meltzer and Richard, 1981; Lizzeri and Persico, 2004; Acemoglu and Robinson, 2000), these results suggest that may only be true when government has the ability to engage in widespread redistribution.
