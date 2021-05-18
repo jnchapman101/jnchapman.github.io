@@ -1,7 +1,7 @@
 ---
 ---
 
-#### On the Relation between Willingness to Accept and Willingness to Pay
+#### On the Relation between Willingness to Accept and Willingness to Pay.
 with Mark Dean, Pietro Ortoleva, Erik Snowberg, and Colin Camerer.
 
 (Previously Willingness-To-Pay and Willingness-To-Accept are Probably Less Correlated than You Think.)
