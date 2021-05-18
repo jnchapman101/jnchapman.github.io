@@ -1,11 +1,12 @@
 ---
 ---
 
-#### Willingness-To-Pay and Willingness-To-Accept are Probably Less Correlated than You Think.
-
+#### On the Relation between Willingness to Accept and Willingness to Pay
 with Mark Dean, Pietro Ortoleva, Erik Snowberg, and Colin Camerer.
 
-[Working Paper]({{ site.baseurl }}{% link assets/pdf/wtap.pdf %}) (January 2019 - Revisions requested at Econometrica.)
+(Previously Willingness-To-Pay and Willingness-To-Accept are Probably Less Correlated than You Think.)
+
+[Working Paper]({{ site.baseurl }}{% link assets/pdf/wtap.pdf %}) (May 2021 - Revisions requested at Econometrica.)
 
 [NBER Paper](https://www.nber.org/papers/w23954) (May 2017)
 
