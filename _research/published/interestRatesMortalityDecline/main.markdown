@@ -5,7 +5,7 @@
 
 (Previously: Financing Sanitation Infrastructure in Nineteenth-Century England and Wales)
 
-Accepted at the Journal of Economic History.
+Accepted at the _Journal of Economic History_.
 
 [Working Paper]({{ site.baseurl }}{% link assets/pdf/sanitation.pdf %})
 
