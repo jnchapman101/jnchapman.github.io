@@ -11,7 +11,8 @@ My research in behavioral economics focuses on eliciting behavioral preferences 
 
 **Updates**
 
-- [Updated May 2021:]({{ site.baseurl }}{% link assets/pdf/sanitation.pdf %}): "Financing Sanitation Infrastructure in Nineteenth-Century England and Wales."
+- Accepted at the _Journal of Economic History_({{ site.baseurl }}{% link assets/pdf/sanitation.pdf %}): :"Interest Rates, Sanitation Infrastructure, and Mortality
+Decline in Nineteenth-Century England and Wales". (previously "Financing Sanitation Infrastructure in Nineteenth-Century England and Wales.")
 - [Updated May 2021:]({{ site.baseurl }}{% link assets/pdf/wtap.pdf %}) "On the Relation between Willingness to Accept and Willingness to Pay." (Previously “Willingness-To-Pay and Willingness-To-Accept are Probably Less Correlated than You Think”).
 - Awarded the 2020 T.S. Ashton Prize for the best article by a junior scholar in the _Economic History Review_ for <br> [The Contribution of Infrastructure Investment to Britain's Urban Mortality Decline 1861-1900.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ehr.12699)
 - [Updated September 2020:]({{ site.baseurl }}{% link assets/pdf/franchise.pdf %}) "The Extent of the Franchise and Government Spending: A Non-Monotonic Relationship in Nineteenth-Century England."
