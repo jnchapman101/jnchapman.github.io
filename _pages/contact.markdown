@@ -7,16 +7,14 @@ title: Contact
 ### Address
 
 Jonathan Chapman<br>
-Office A5-155<br>
-Division of Social Science<br>
-New York University Abu Dhabi<br>
-Saadiyat Island<br>
-Abu Dhabi<br>
-United Arab Emirates<br>
+Department of Economics<br>
+University of Bolgona<br>
+Bologna
+Italy<br>
 
 ### Email
 
-<jchapman@nyu.edu>
+<jonathan.chapman@unibo.it>
 
 ### Social
 
