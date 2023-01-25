@@ -6,4 +6,4 @@ with Erik Snowberg, Stephanie Wang, and Colin Camerer.
 
 [NBER Paper](https://www.nber.org/papers/w30243)
 
-<ins> Idea:</ins> Around half of the U.S. population downweight losses relative to gains. Loss tolerant individuals gamble more, have lower assets, and experience more real world losses.
+<ins> Idea:</ins> Around half of the U.S. population downweight losses relative to gains. Loss tolerance is correlated with individual characteristics and behaviors. 
