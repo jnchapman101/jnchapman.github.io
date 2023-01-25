@@ -1,4 +1,7 @@
 ---
+---
 
 ##### Abstract
-This paper investigates whether high borrowing costs deterred investment in sanitation infrastructure in late nineteenth-century Britain. Town councils had to borrow to fund investment, with considerable variation in interest rates across towns and over time. Panel regressions, using annual data from over eight hundred town councils, indicate that higher interest rates were associated with lower levels of infrastructure investment between 1887 and 1903. Instrumental variable regressions show that falling interest rates after 1887 stimulated investment and led to lower infant mortality. These findings suggest that Parliament could have expedited mortality decline by subsidizing loans or facilitating private borrowing.
+
+We study the pattern of correlations across a large number of behavioral regularities, with the goal of creating an empirical basis for more comprehensive theories of decision-making. We elicit 21 behaviors, using an incentivized survey on a representative sample (n=1,000) of the US population. Our data show a clear and relatively simple structure underlying the correlations between these measures. Using principal components analysis, we reduce the 21 variables to six components corresponding to clear clusters of high correlations. We examine the relationship between these components, cognitive ability, and demographics. Common extant theories are not compatible with all the patterns in our data.
+
