@@ -1,7 +1,7 @@
 ---
 ---
 
-#### [Econographics.]({{https://www.journals.uchicago.edu/doi/full/10.1086/723044}})
+#### [Econographics.](https://www.journals.uchicago.edu/doi/full/10.1086/723044)
 
 (with Mark Dean, Pietro Ortoleva, Erik Snowberg, and Colin Camerer.)
 
