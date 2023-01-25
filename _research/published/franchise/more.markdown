@@ -1,0 +1,5 @@
+---
+---
+
+##### Abstract
+This paper investigates the effect of extending the franchise on government spending on public goods in nineteenth-century England and Wales. The effect of franchise extension is identified by exploiting extensive regional and temporal variation in the right to vote in municipal elections between 1867 and 1900. Semi-parametric regressions show robust evidence of an inverted-U-shaped relationship: extending the right to vote from the rich to the middle class led to increased spending, but further franchise extensions---beyond around 50% of the adult male population---led to lower expenditure. Further, government spending was lower in towns where the poor were enfranchised by national reforms. A simple model shows that the inverted-U-relationship can be explained by the trade-offs between public spending and private consumption faced by poor voters. These results suggest that enfranchising the poor may lead to smaller government, in contrast to the predictions of many theoretical models.
