@@ -6,7 +6,7 @@
 
 (Previously: Financing Sanitation Infrastructure in Nineteenth-Century England and Wales)
 
-Accepted at the _Journal of Economic History_.
+ _Journal of Economic History_, Volume 82 , Issue 1 , March 2022 , pp. 175 - 210
 
 [Working Paper]({{ site.baseurl }}{% link assets/pdf/sanitation.pdf %})
 
