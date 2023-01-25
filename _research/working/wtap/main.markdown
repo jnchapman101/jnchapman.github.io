@@ -10,4 +10,4 @@ with Mark Dean, Pietro Ortoleva, Erik Snowberg, and Colin Camerer.
 
 [2017 NBER Paper](https://www.nber.org/papers/w23954)
 
-<ins> Idea:</ins> Three new empirical facts contradict predictions of standard theories of reference dependence, and point to alternative theories of the endowment effect.
+<ins> Idea:</ins> Three new empirical findings contradict predictions of standard theories of reference dependence, and point to alternative theories of the endowment effect.
