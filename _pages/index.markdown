@@ -11,7 +11,7 @@ My research in behavioral economics focuses on eliciting behavioral preferences 
 
 **Updates**
 
-- [Updated January 2023:](10.3386/w30836) "Willingness to Accept, Willingness to Pay, and Loss Aversion." (Previously “Willingness-To-Pay and Willingness-To-Accept are Probably Less Correlated than You Think”).
+- [Updated January 2023:](10.3386/w30836) "Willingness to Accept, Willingness to Pay, and Loss Aversion."
 - Forthcoming at _Journal of Political Economy Microeconomics_: ["Econographics"]({{ site.baseurl }}{% link assets/pdf/econographics.pdf %}). 
 - Published at the _Journal of Economic History_: ["Interest Rates, Sanitation Infrastructure, and Mortality
 Decline in Nineteenth-Century England and Wales"]({{ site.baseurl }}{% link assets/pdf/sanitation.pdf %}). 
