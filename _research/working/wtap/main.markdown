@@ -1,13 +1,13 @@
 ---
 ---
 
-#### On the Relation between Willingness to Accept and Willingness to Pay.
+#### Willingness to Accept, Willingness to Pay, and Loss Aversion.
 with Mark Dean, Pietro Ortoleva, Erik Snowberg, and Colin Camerer.
 
-(Previously Willingness-To-Pay and Willingness-To-Accept are Probably Less Correlated than You Think.)
+(Originally Willingness-To-Pay and Willingness-To-Accept are Probably Less Correlated than You Think.)
 
-[Working Paper]({{ site.baseurl }}{% link assets/pdf/wtap.pdf %}) (May 2021 - Revisions requested at Econometrica.)
+[2023 NBER Paper](https://www.nber.org/papers/w30836)
 
-[NBER Paper](https://www.nber.org/papers/w23954) (May 2017)
+[2017 NBER Paper](https://www.nber.org/papers/w23954)
 
-<ins> Idea:</ins> Willingness to Pay and Willingness to Accept are very poorly, if at all, correlated in representative samples. Implications for theories of reference dependence.  
+<ins> Idea:</ins> Three new empirical facts contradict predictions of standard theories of reference dependence, and point to alternative theories of the endowment effect.
