@@ -10,4 +10,4 @@ with Erik Snowberg, Colin Camerer and Stephanie Wang
 
 [NBER Paper](https://www.nber.org/papers/w25072) (November 2018)
 
-<ins>Idea:</ins> Only around half the U.S. population are loss tolerant. Introduces new technique (DOSE) to estimate economic preference parameters.
+<ins>Idea:</ins> Only around half the U.S. population are loss averse. Introduces new technique (DOSE) to estimate economic preference parameters.
