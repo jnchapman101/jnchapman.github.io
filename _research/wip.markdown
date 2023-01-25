@@ -8,3 +8,5 @@ Government Austerity and the Anti-Vaccination movement in nineteenth-century Eng
 Equality of Opportunity or Equality of Outcome?, with Matthew Chao
 
 Time Stability of Econographics, with Colin Camerer, Pietro Ortoleva and Erik Snowberg.
+
+International Econographics, with Colin Camerer, Salvatore Nunnari, Pietro Ortoleva, and Erik Snowberg.
