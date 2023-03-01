@@ -8,6 +8,7 @@
 Forthcoming at _Journal of Political Economy Microeconomics_.
 
 [Published Version](https://www.journals.uchicago.edu/doi/full/10.1086/723044)
+
 [Final Working Paper]({{ site.baseurl }}{% link assets/pdf/econographics.pdf %})
 
 
