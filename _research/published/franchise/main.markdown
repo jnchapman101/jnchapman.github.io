@@ -6,8 +6,9 @@
 
 <ins> Idea:</ins> After a certain point extending voting rights to poorer citizens leads to lower spending on public goods.  
 
-November 2022: Conditionally Accepted at the _Journal of Politics_
+Accepted at the _Journal of Politics_
 
-[Working Paper]({{ site.baseurl }}{% link assets/pdf/Chapman_franchiseTaxes_23092020.pdf %})
+[Final Version]({{ site.baseurl }}{% link assets/pdf/franchiseFinal.pdf %})
+[2020 Long-Version Working Paper]({{ site.baseurl }}{% link assets/pdf/franchiseLong.pdf %})
 
 
