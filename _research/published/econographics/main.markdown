@@ -8,7 +8,7 @@
 Forthcoming at _Journal of Political Economy Microeconomics_.
 
 [Published Version](https://www.journals.uchicago.edu/doi/full/10.1086/723044)
-[Final Working Paper]
+[Final Working Paper]({{ site.baseurl }}{% link assets/pdf/econographics.pdf %})
 
 
-<ins>Idea:</ins> Finds clear patterns of correlations betweeen behavioral economic measures in a large-scale representative-sample incentivized survey. 
+<ins>Idea:</ins> Clear patterns of correlations betweeen behavioral economic measures in a large-scale representative-sample incentivized survey. 
