@@ -11,6 +11,7 @@ My research in behavioral economics focuses on eliciting behavioral preferences 
 
 **Updates**
 
+- Accepted at the  _Journal of Politics_:  "Gradual Franchise Extensions and Government Spending in Nineteenth-Century England."
 - [Updated January 2023:](http://www.nber.org/papers/w30836) "Willingness to Accept, Willingness to Pay, and Loss Aversion."
 - Forthcoming at _Journal of Political Economy Microeconomics_: ["Econographics"]({{ site.baseurl }}{% link assets/pdf/econographics.pdf %}). 
 - Published at the _Journal of Economic History_: ["Interest Rates, Sanitation Infrastructure, and Mortality
