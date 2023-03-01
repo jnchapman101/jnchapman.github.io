@@ -9,6 +9,7 @@
 Accepted at the _Journal of Politics_
 
 [Final Version]({{ site.baseurl }}{% link assets/pdf/franchiseFinal.pdf %})
+
 [2020 Long-Version Working Paper]({{ site.baseurl }}{% link assets/pdf/franchiseLong.pdf %})
 
 
