@@ -5,7 +5,7 @@
 
 (with Mark Dean, Pietro Ortoleva, Erik Snowberg, and Colin Camerer.)
 
-Forthcoming at _Journal of Political Economy Microeconomics_.
+_Journal of Political Economy Microeconomics_ 1(1).
 
 [Published Version](https://www.journals.uchicago.edu/doi/full/10.1086/723044)
 
