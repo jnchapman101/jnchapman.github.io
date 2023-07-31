@@ -4,7 +4,7 @@
 #### Willingness to Accept, Willingness to Pay, and Loss Aversion.
 with Mark Dean, Pietro Ortoleva, Erik Snowberg, and Colin Camerer.
 
-(Originally Willingness-To-Pay and Willingness-To-Accept are Probably Less Correlated than You Think.)
+(Earlier titles: On the Relation between Willingness to Accept and Willingness to Pay; Originally Willingness-To-Pay and Willingness-To-Accept are Probably Less Correlated than You Think.)
 
 [2023 NBER Paper](https://www.nber.org/papers/w30836)
 
