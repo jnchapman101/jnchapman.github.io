@@ -13,7 +13,7 @@ My research in behavioral economics focuses on eliciting behavioral preferences 
 
 - Published at the _Journal of Political Economy Microeconomics_: ["Econographics"]({{ site.baseurl }}{[% link assets/pdf/econographics.pdf %](https://www.journals.uchicago.edu/doi/full/10.1086/723044)}). 
 - Accepted at the _Journal of Politics_:  "Gradual Franchise Extensions and Government Spending in Nineteenth-Century England."
-- [Updated July 2023:](% link assets/pdf/WTA_P 2023.pdf %) "Willingness to Accept, Willingness to Pay, and Loss Aversion."
+- [Updated July 2023:]({{ site.baseurl }}{% link assets/pdf/WTA_P 2023.pdf %})
 - [Updated July 2023:]({{ site.baseurl }}{% link assets/pdf/poorlaw.pdf %}): "Democracy, Redistribution, and Inequality: Evidence from the English Poor Law."
 - Published at the _Journal of Economic History_: ["Interest Rates, Sanitation Infrastructure, and Mortality
 Decline in Nineteenth-Century England and Wales"]({{ site.baseurl }}{% link assets/pdf/sanitation.pdf %}). 
