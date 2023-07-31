@@ -14,7 +14,7 @@ My research in behavioral economics focuses on eliciting behavioral preferences 
 - Published at the _Journal of Political Economy Microeconomics_: ["Econographics"]({{ site.baseurl }}{[% link assets/pdf/econographics.pdf %](https://www.journals.uchicago.edu/doi/full/10.1086/723044)}). 
 - Accepted at the _Journal of Politics_:  "Gradual Franchise Extensions and Government Spending in Nineteenth-Century England."
 - [Updated July 2023:]({{ site.baseurl }}{% link assets/pdf/WTA_P 2023.pdf %})
-- [Updated July 2023:]({{ site.baseurl }}{% link assets/pdf/poorlaw.pdf %}) "Democracy, Redistribution, and Inequality: Evidence from the English Poor Law."
+- [Updated July 2023:]({{ site.baseurl }}{% link assets/pdf/poorLaw.pdf %}) "Democracy, Redistribution, and Inequality: Evidence from the English Poor Law."
 - Published at the _Journal of Economic History_: ["Interest Rates, Sanitation Infrastructure, and Mortality
 Decline in Nineteenth-Century England and Wales"]({{ site.baseurl }}{% link assets/pdf/sanitation.pdf %}). 
 - Awarded the 2020 T.S. Ashton Prize for the best article by a junior scholar in the _Economic History Review_ for <br> [The Contribution of Infrastructure Investment to Britain's Urban Mortality Decline 1861-1900.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ehr.12699)
