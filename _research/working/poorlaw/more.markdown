@@ -19,4 +19,4 @@ The analysis tests whether the effect of this reform varied according
 to the level of inequality in each district, as predicted by theoretical
 models of democratization. The results show that, consistent with these
 theories, unequal districts experienced greater increases in poor law
-expenditure post democratic reform.
+expenditure following democratic reform.
