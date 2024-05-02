@@ -1,8 +1,7 @@
 ---
 
 #### Looming Large or Seeming Small? Attitudes Towards Losses in a Representative Sample.
-with Erik Snowberg, Stephanie Wang, and Colin Camerer.
-Forthcoming at _The Review of Economic Studies_.
+Forthcoming at _The Review of Economic Studies_, with Erik Snowberg, Stephanie Wang, and Colin Camerer.
 
 [Working Paper]({{ site.baseurl }}{% link assets/pdf/loomingLargeFinal.pdf %})
 
