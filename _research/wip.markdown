@@ -1,7 +1,7 @@
 ---
 ---
 
-The Historical Development of Fiscal and Legal Capacity in England and Wales, with Tim Besley, Dan Bogart and Nuno Palma.
+Justices of the Peace: Legal Foundations of the Industrial Revolution, with Tim Besley, Dan Bogart and Nuno Palma.
 
 Government Austerity and the Anti-Vaccination movement in nineteenth-century England and Wales
 
