@@ -4,8 +4,8 @@
 #### Willingness to Accept, Willingness to Pay, and Loss Aversion.
 with Mark Dean, Pietro Ortoleva, Erik Snowberg, and Colin Camerer.
 
-(Earlier titles: On the Relation between Willingness to Accept and Willingness to Pay; Originally Willingness-To-Pay and Willingness-To-Accept are Probably Less Correlated than You Think.)
+(Envelops: "On the Relation between Willingness to Accept and Willingness to Pay"; and "Willingness-To-Pay and Willingness-To-Accept are Probably Less Correlated than You Think".)
 
-[Working Paper (July 2023)]({{ site.baseurl }}{% link assets/pdf/WTA_P 2023.pdf %})
+[Working Paper (October 2024)]({{ site.baseurl }}{% link assets/pdf/WTA_P 2024.pdf %})
 
-<ins> Idea:</ins> Three new empirical findings contradict predictions of standard theories of reference dependence, and point to alternative theories of the endowment effect.
+<ins> Idea:</ins> Loss aversion does not explain the endowment effect. We use this fact, and three further findings, to point to alternative theories.
