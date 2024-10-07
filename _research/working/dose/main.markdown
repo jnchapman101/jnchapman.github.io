@@ -7,6 +7,6 @@ with Erik Snowberg, Stephanie Wang, and Colin Camerer
 
 [NBER Working Paper]({{ site.baseurl }}{% link assets/pdf/dose w33013.pdf %}) (October 2024)
 
-[November 2018 NBER Working Paper: "Loss Attitudes in the U.S. Population: Evidence from Dynamically Optimized Sequential Experimentation (DOSE)"](https://www.nber.org/papers/w25072)
+[November 2018 NBER Working Paper:](https://www.nber.org/papers/w25072) "Loss Attitudes in the U.S. Population: Evidence from Dynamically Optimized Sequential Experimentation (DOSE)"]
 
 <ins>Idea:</ins> Introduces new technique (DOSE) to estimate economic preference parameters. Demonstrates effectiveness in measuring risk and time preferences in the general population.
