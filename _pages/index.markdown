@@ -10,9 +10,10 @@ My work in economic history is focused on the development of the British state. 
 My research in behavioral economics focuses on eliciting behavioral preferences in broad populations, as part of the [World Econographics Project](http://www.its.caltech.edu/~snowberg/wep.html). In a series of papers we use data from incentivized, representative, surveys to investigate the relationships between different behavioral preferences, and between economic preferences and socio-demographic characteristics.
 
 **Updates**
+- May 2025: [NEW:]({{ site.baseurl }}{% link assets/pdf/jps draft May 2.pdf %}) "Justice of the Peace: Legal Foundations of the Industrial Revolution." 
 - February 2025: [NEW:]({{ site.baseurl }}{% link assets/pdf/selfAssessments.pdf %}) "Reassessing Qualitative Self-Assessments and Experimental Validation."
 - October 2024: [NEW:](https://www.nber.org/papers/w33013) "Dynamically Optimized Sequential Experimentation (DOSE) for Estimating Economic Preference Parameters."
-- October 2024: Forthcoming at the _Review of Economic Studies_: ["Looming Large or Seeming Small? Attitudes Towards Losses in a Representative Sample."]({{ site.baseurl }}{% link assets/pdf/loomingLargeFinal.pdf %})
+- October 2024: Accepted at the _Review of Economic Studies_: ["Looming Large or Seeming Small? Attitudes Towards Losses in a Representative Sample."]({{ site.baseurl }}{% link assets/pdf/loomingLargeFinal.pdf %})
 - September 2024: [Updated:]({{ site.baseurl }}{% link assets/pdf/WTA_P 2024.pdf %}) "Willingness-to-Accept, Willingness-to-Pay, and Loss Aversion."
 - Jan 2024: Published in the _Journal of Politics_:  ["Gradual Franchise Extensions and Government Spending in Nineteenth-Century England"](https://www.journals.uchicago.edu/doi/10.1086/726930).  
 - July 2023: [Updated:]({{ site.baseurl }}{% link assets/pdf/poorLaw.pdf %}) "Democracy, Redistribution, and Inequality: Evidence from the English Poor Law."
