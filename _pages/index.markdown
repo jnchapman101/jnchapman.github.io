@@ -10,7 +10,8 @@ My work in economic history is focused on the development of the British state. 
 My research in behavioral economics focuses on eliciting behavioral preferences in broad populations, as part of the [World Econographics Project](http://www.its.caltech.edu/~snowberg/wep.html). In a series of papers we use data from incentivized, representative, surveys to investigate the relationships between different behavioral preferences, and between economic preferences and socio-demographic characteristics.
 
 **Updates**
-- May 2025: [NEW:]({{ site.baseurl }}{% link assets/pdf/jps draft May 2.pdf %}) "Justices of the Peace: Legal Foundations of the Industrial Revolution." 
+- May 2025: [NEW:]({{ site.baseurl }}{% link assets/pdf/jps draft May 2.pdf %}) "Justices of the Peace: Legal Foundations of the Industrial Revolution."
+- March 2025: Awarded _abilitazione_ ("habilitation") for rank of Full Professor in sector 13/A1 (economics). 
 - February 2025: [NEW:]({{ site.baseurl }}{% link assets/pdf/selfAssessments.pdf %}) "Reassessing Qualitative Self-Assessments and Experimental Validation."
 - October 2024: [NEW:](https://www.nber.org/papers/w33013) "Dynamically Optimized Sequential Experimentation (DOSE) for Estimating Economic Preference Parameters."
 - October 2024: Accepted at the _Review of Economic Studies_: ["Looming Large or Seeming Small? Attitudes Towards Losses in a Representative Sample."]({{ site.baseurl }}{% link assets/pdf/loomingLargeFinal.pdf %})
