@@ -5,6 +5,8 @@
 
 with Geoffery Fisher.
 
+[Working Paper]({{ site.baseurl }}{% link assets/pdf/Preference_elicitation_chapter FINAL.pdf %})
+
 Chapter in the "Handbook of Experimental Methodology" (Forthcoming, eds., Erik Snowberg and Leeat Yariv)
 
 _Working paper version available upon request_
