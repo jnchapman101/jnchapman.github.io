@@ -6,5 +6,6 @@ title: Datasets
 
 Data on 19th century town council accounts in England and Wales can be downloaed from the UK Data Archive at:
 
-Municipal Borough and Urban Sanitary Authority Financial Accounts, 1872-1910
+[Municipal Borough and Urban Sanitary Authority Financial Accounts, 1872-1910](10.5255/UKDA-SN-856646)
+
 
