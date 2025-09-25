@@ -1,9 +1,11 @@
 ---
 ---
 
-#### [Dynamically Optimized Sequential Experimentation (DOSE) for Estimating Economic Preference Parameters](https://www.nber.org/papers/w33013).
+#### [Dynamically Optimized Sequential Experimentation (DOSE) for Estimating Economic Preference Parameters]({{ site.baseurl }}{% link assets/pdf/dose for website sep 2025.pdf %}).
 
 with Erik Snowberg, Stephanie Wang, and Colin Camerer.
+
+[Latest Working Paper]({{ site.baseurl }}{% link assets/pdf/dose for website sep 2025.pdf %})
 
 [October 2024 NBER Working Paper]({{ site.baseurl }}{% link assets/pdf/dose w33013.pdf %})
 
