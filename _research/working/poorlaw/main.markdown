@@ -2,7 +2,7 @@
 ---
 
 #### Democracy, Redistribution, and Inequality: Evidence from the English Poor Law. 
-_Revise and Resubmit at the Journal of the European Economic Association_
+_Conditionally Accepted at the Journal of the European Economic Association_
 
 
 [Working Paper]({{ site.baseurl }}{% link assets/pdf/poorLaw.pdf %})
