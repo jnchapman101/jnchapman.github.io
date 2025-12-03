@@ -3,7 +3,7 @@ layout: home
 permalink: "/"
 ---
 
-I am an Associate Professor in the Department of Economics at the University of Bologna. I am an applied microeconomist, with research interests straddling Economic History, Political Economy, and Behavioral Economics.
+I am an Associate Professor of Economics at the University of Bologna, and a Research Fellow of the Centre for Economic Policy Research (CEPR). I am an applied microeconomist, with research interests straddling Economic History, Political Economy, and Behavioral Economics.
 
 My work in economic history is focused on the development of the British state. Several of my papers use the British experience to test theories in political economy, such as the effects of democratization on government spending. Another strand of research investigates the role of the state in Britain's mortality decline.
 
