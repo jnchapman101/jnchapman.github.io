@@ -2,7 +2,10 @@
 ---
 
 #### Reassessing Qualitative Self-Assessments and Experimental Validation.
+
 with Pietro Ortoleva, Erik Snowberg, Leeat Yariv, and Colin Camerer.
+
+<p><span class="tag">Behavioral Economics</span></p>
 
 [Working Paper (February 2025)]({{ site.baseurl }}{% link assets/pdf/selfAssessments.pdf %})
 

@@ -2,7 +2,10 @@
 ---
 
 #### Willingness to Accept, Willingness to Pay, and Loss Aversion.
+
 with Mark Dean, Pietro Ortoleva, Erik Snowberg, and Colin Camerer.
+
+<p><span class="tag">Behavioral Economics</span></p>
 
 (Envelops: "On the Relation between Willingness to Accept and Willingness to Pay"; and "Willingness-To-Pay and Willingness-To-Accept are Probably Less Correlated than You Think".)
 

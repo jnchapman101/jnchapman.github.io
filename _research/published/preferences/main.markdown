@@ -3,7 +3,11 @@
 
 #### [Preference Elicitation: Common Methods and Potential Pitfalls](https://www.sciencedirect.com/science/article/pii/S3051167425000012)
 
-_Handbook of Experimental Methodology_ 1, 2025, 25-80, with Geoffrey Fisher.
+with Geoffrey Fisher.
+
+<p><span class="tag">Behavioral Economics</span></p>
+
+_Handbook of Experimental Methodology_, 2025.
 
 <ins>Idea:</ins> A review of methods for eliciting risk, time, and social preferences.
 

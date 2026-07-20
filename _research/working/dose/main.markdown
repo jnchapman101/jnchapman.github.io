@@ -5,6 +5,8 @@
 
 with Erik Snowberg, Stephanie Wang, and Colin Camerer.
 
+<p><span class="tag">Behavioral Economics</span></p>
+
 [Latest Working Paper]({{ site.baseurl }}{% link assets/pdf/dose for website sep 2025.pdf %})
 
 [October 2024 NBER Working Paper]({{ site.baseurl }}{% link assets/pdf/dose w33013.pdf %})

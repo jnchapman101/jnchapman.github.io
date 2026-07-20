@@ -24,3 +24,15 @@ footer {
 .nojs .navbar-menu {
   display: flex;
 }
+
+#published-forthcoming .research-paper + .research-paper,
+#working-papers .research-paper + .research-paper {
+  border-top: 2px solid #dbdbdb;
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+}
+
+#work-in-progress .research-list-item,
+#other-publications .research-list-item {
+  margin-bottom: 1.5rem;
+}

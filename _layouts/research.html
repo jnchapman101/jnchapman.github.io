@@ -4,41 +4,66 @@ layout: default
 <main>
   <section class="section">
     <div class="container content">
-      <h3>Published Papers</h3>
+      <h3>Research</h3>
+      <p>
+        <a href="#published-forthcoming">Published &amp; forthcoming</a> |
+        <a href="#working-papers">Working papers</a> |
+        <a href="#work-in-progress">Work in progress</a> |
+        <a href="#other-publications">Other publications</a>
+      </p>
+      <div class="buttons" role="group" aria-label="Filter research by topic">
+        <button class="button is-dark research-filter" type="button" data-topic="all" aria-pressed="true">All</button>
+        <button class="button research-filter" type="button" data-topic="Political Economy" aria-pressed="false">Political Economy</button>
+        <button class="button research-filter" type="button" data-topic="Economic History" aria-pressed="false">Economic History</button>
+        <button class="button research-filter" type="button" data-topic="Behavioral Economics" aria-pressed="false">Behavioral Economics</button>
+      </div>
+      <p id="research-filter-status" aria-live="polite">Showing: All papers</p>
+      <p id="research-filter-note">Showing 14 out of 14 papers.</p>
     </div>
-    {% include paper.html paper="_research/published/poorlaw" %}
-    {% include paper.html paper="_research/published/preferences" %}
-    {% include paper.html paper="_research/published/lossaversion" %}
-    {% include paper.html paper="_research/published/econographics" %}
-    {% include paper.html paper="_research/published/franchise" %}
-    {% include paper.html paper="_research/published/interestRatesMortalityDecline" %}
-    {% include paper.html paper="_research/published/signaling" %}
-    {% include paper.html paper="_research/published/mortality" %}
-    {% include paper.html paper="_research/published/reform" %}
-    
   </section>
-  <section class="section">
+
+  <section class="section research-section" id="published-forthcoming">
     <div class="container content">
-      <h3>Working Papers</h3>
+      <h3>Published &amp; forthcoming</h3>
+      <p class="research-empty-message" hidden>No published or forthcoming papers in this category.</p>
     </div>
-    {% include paper.html paper="_research/working/selfAssessments" %}
-    {% include paper.html paper="_research/working/wtap" %}
-    {% include paper.html paper="_research/working/dose" %}
-    {% include paper.html paper="_research/working/jps" %}
-    {% include paper.html paper="_research/working/smallpox" %}
-    
+    {% include paper.html paper="_research/published/poorlaw" topics="Political Economy,Economic History" %}
+    {% include paper.html paper="_research/published/preferences" topics="Behavioral Economics" %}
+    {% include paper.html paper="_research/published/lossaversion" topics="Behavioral Economics" %}
+    {% include paper.html paper="_research/published/econographics" topics="Behavioral Economics" %}
+    {% include paper.html paper="_research/published/franchise" topics="Political Economy,Economic History" %}
+    {% include paper.html paper="_research/published/interestRatesMortalityDecline" topics="Economic History,Political Economy" %}
+    {% include paper.html paper="_research/published/signaling" topics="Behavioral Economics" %}
+    {% include paper.html paper="_research/published/mortality" topics="Economic History" %}
+    {% include paper.html paper="_research/published/reform" topics="Political Economy,Economic History" %}
   </section>
-  <section class="section">
+
+  <section class="section research-section" id="working-papers">
     <div class="container content">
-      <h3>Work in Progress</h3>
+      <h3>Working papers</h3>
+      <p class="research-empty-message" hidden>No working papers in this category.</p>
+    </div>
+    {% include paper.html paper="_research/working/selfAssessments" topics="Behavioral Economics" %}
+    {% include paper.html paper="_research/working/wtap" topics="Behavioral Economics" %}
+    {% include paper.html paper="_research/working/dose" topics="Behavioral Economics" %}
+    {% include paper.html paper="_research/working/jps" topics="Economic History,Political Economy" %}
+    {% include paper.html paper="_research/working/smallpox" topics="Economic History,Political Economy" %}
+  </section>
+
+  <section class="section research-section" id="work-in-progress">
+    <div class="container content">
+      <h3>Work in progress</h3>
+      <p class="research-empty-message" hidden>No work in progress in this category.</p>
     </div>
     <div class="container content">
       {{ site.research | where: "path", "_research/wip.markdown" }}
     </div>
   </section>
-  <section class="section">
+
+  <section class="section research-section" id="other-publications">
     <div class="container content">
-      <h3>Other Publications</h3>
+      <h3>Other publications</h3>
+      <p class="research-empty-message" hidden>No other publications in this category.</p>
     </div>
     <div class="container content">
       {{ site.research | where: "path", "_research/other.markdown" }}
