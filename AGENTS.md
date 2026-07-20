@@ -143,3 +143,6 @@ Work in progress entries may have `data-topics` so filters can include them, but
 Use HTML entities for the abstract toggle arrows: `Show abstract &darr;` and `Hide abstract &uarr;`. Avoid literal arrow characters in `_includes/paper.html`, `_src/_typescript/main.ts`, `js/main.js`, or the preview helper, because prior edits produced mojibake on Windows.
 
 Published & forthcoming and Working papers should use consistent CSS dividers between paper entries. Use explicit `research-paper` classes and top borders on `.research-paper + .research-paper`. Work in progress and Other publications should use direct `margin-bottom` spacing on `research-list-item`; do not rely on adjacent sibling selectors there because preview/Jekyll rendering can wrap each entry in separate containers. Work in progress should not show visible topic tags.
+## Jekyll Build Exclusions
+
+`AGENTS.md` and `HANDOFF.md` are excluded in `_config.yml` because GitHub Pages can process Markdown files with optional front matter. These docs contain literal Jekyll/Liquid examples such as link tags, and should not be rendered as part of the website.

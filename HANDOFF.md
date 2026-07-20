@@ -149,3 +149,6 @@ The user reported that the abstract arrow was not rendering correctly and that s
 - `_includes/paper.html` adds `research-paper` to structured paper entries, and `_src/_sass/main.scss` plus checked-in `css/main.css` add consistent horizontal dividers between Published & forthcoming and Working paper entries.
 - `_research/wip.markdown` and `_research/other.markdown` add `research-list-item`; CSS applies direct `margin-bottom: 1.5rem` spacing because adjacent sibling selectors did not work after preview/Jekyll wrapping.
 - Preview regenerated; browser computed-style checks confirmed `2px` top dividers and `24px` spacing for second/later Published and Working papers, plus `24px` bottom spacing for Work in progress and Other publications. Static checks found no arrow mojibake in the preview HTML and retained `Showing 14 out of 14 papers.`
+## Latest Deploy Fix
+
+The first push of `ed17b6b` reached GitHub but Pages failed during Jekyll build. Likely cause: root documentation Markdown files were included in the Pages build and contained literal Liquid/Jekyll examples. `_config.yml` now excludes `AGENTS.md` and `HANDOFF.md` from the site build while keeping them in the repository for future agents.

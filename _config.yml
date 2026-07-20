@@ -8,3 +8,7 @@ include: ["_pages"]
 
 collections:
   - research
+
+exclude:
+  - AGENTS.md
+  - HANDOFF.md
