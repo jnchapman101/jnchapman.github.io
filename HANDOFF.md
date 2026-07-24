@@ -152,3 +152,8 @@ The user reported that the abstract arrow was not rendering correctly and that s
 ## Latest Deploy Fix
 
 The first push of `ed17b6b` reached GitHub but Pages failed during Jekyll build. Likely cause: root documentation Markdown files were included in the Pages build and contained literal Liquid/Jekyll examples. `_config.yml` now excludes `AGENTS.md` and `HANDOFF.md` from the site build while keeping them in the repository for future agents.
+## Current Data Page Update
+
+Drafted changes for `_pages/datasets.markdown`: added `Original Datasets`, moved the existing UK Data Archive municipal accounts entry there, and added a `Replication Packages` section with verified repository/package DOI links for Econographics, Gradual Franchise Extensions, Interest Rates/Sanitation, Looming Large, and Poor Law. Also added a Data Page Workflow section to `AGENTS.md` so future agents preserve verified package-link standards and external-link attributes.
+
+Published papers searched where no public replication package has been found so far: Democratic Reform and Opposition to Government Expenditure; The Contribution of Infrastructure Investment to Britain's Urban Mortality Decline; Saving Face Through Preference Signaling and Obligation Avoidance; Preference Elicitation: Common Methods and Potential Pitfalls.

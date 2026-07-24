@@ -21,6 +21,15 @@ This is Jonathan Chapman's personal Jekyll/GitHub Pages site. Future agents shou
 - `_includes/paper.html` renders those two files and the abstract toggle; do not change it unless changing behavior globally is intended.
 - `_layouts/research.html` controls section ordering and which paper folders appear under each section.
 
+
+## Data Page Workflow
+
+- `_pages/datasets.markdown` is the visible Data page and uses the simple `_layouts/datasets.html` content wrapper. Preserve the existing Bulma/content typography unless the user asks for a redesign.
+- Keep the UK Data Archive municipal accounts entry under `Original Datasets` unless the user asks to move or rename it.
+- Put replication materials under `Replication Packages`; use direct repository/package links where verified, preferably stable DOIs for Dataverse, Zenodo, openICPSR, OSF, GitHub releases, or publisher supplementary files.
+- Do not add article-page links as replication links unless they are the most authoritative page that actually provides file access. Do not add unverified or duplicate package entries.
+- External Data page links should use `target="_blank" rel="noopener noreferrer"`.
+- Adding visible replication-package entries must not remove or simplify full citation details from CVs, BibTeX, metadata, structured data, or other formal citation sources.
 ## Research Page Workflow
 
 For publication changes:
