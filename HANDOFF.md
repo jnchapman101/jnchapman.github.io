@@ -163,3 +163,6 @@ Added a consolidated `Website Formatting Standards` section to `AGENTS.md`. Futu
 ## CV Maintenance Documentation
 
 Added a dedicated `CV Maintenance Workflow` section to `AGENTS.md`. Future agents must preserve existing CV `.tex` versions, create a new version for edits, validate by compiling/checking the PDF, and avoid modifying the website, committing, or publishing until the user explicitly approves the new CV version.
+## CV Folder Location Documentation
+
+Added the concrete CV folder location to `AGENTS.md`: `C:\Users\jonathanneil.chapman\Dropbox\Research\website\CV`. It also notes the `Chapman_CV_<MonthYear>.tex` / `.pdf` naming convention, the `Old` archive folder, and that `Chapman_CV_July2026.tex` / `.pdf` is only a draft review version unless the user explicitly approves it.

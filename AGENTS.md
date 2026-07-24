@@ -83,6 +83,8 @@ Hide issue numbers, page ranges, months, and similar formal citation details fro
 
 Follow this workflow whenever the user asks an agent to update the CV in the CV folder.
 
+CV files are outside the website repository at `C:\Users\jonathanneil.chapman\Dropbox\Research\website\CV`. The current naming convention is `Chapman_CV_<MonthYear>.tex` and matching `Chapman_CV_<MonthYear>.pdf`, with older archived versions in `C:\Users\jonathanneil.chapman\Dropbox\Research\website\CV\Old`. At the time this note was added, the preserved prior current version was `Chapman_CV_Dec2025.tex`, and a draft review version existed as `Chapman_CV_July2026.tex` / `.pdf`. Do not assume the July 2026 draft is approved unless the user has explicitly said so.
+
 ### Preserve the Existing Version
 
 - Treat the current `.tex` file as the archived previous version.
