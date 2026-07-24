@@ -22,6 +22,21 @@ This is Jonathan Chapman's personal Jekyll/GitHub Pages site. Future agents shou
 - `_layouts/research.html` controls section ordering and which paper folders appear under each section.
 
 
+## Website Formatting Standards
+
+Use these rules for visible website presentation unless the user explicitly asks for a redesign:
+
+- Preserve the existing Bulma/Jekyll typography, colors, spacing, and mobile behavior. Keep pages simple and content-forward.
+- Do not create new top-level pages, separate field tabs, landing-page style sections, decorative cards, or visual redesigns unless requested.
+- On publication/research pages, visible journal article details should normally be limited to paper title, coauthors if any, journal or edited volume, and year.
+- Hide issue numbers, page ranges, months, and similar formal citation details from visible pages unless needed to distinguish a publication. Do not remove those details from CVs, BibTeX, metadata, structured data, PDFs, or other formal citation sources.
+- Keep paper titles, coauthors, topic tags, journal details, links, and abstracts visually separate. In paper `main.markdown` files, always leave a blank line after a `####` title heading before coauthors, tags, journal text, links, or other paragraphs.
+- External links added to visible pages should use `target="_blank" rel="noopener noreferrer"`.
+- Local publication PDFs belong in `assets/pdf/` and should be linked with Jekyll's link tag syntax rather than hard-coded relative URLs.
+- Use text-link styling for abstract toggles: `Show abstract &darr;` when closed and `Hide abstract &uarr;` when open. Keep the toggle keyboard accessible and maintain `aria-expanded`.
+- Published & forthcoming and Working papers should have consistent dividers between paper entries. Work in progress and Other publications should have clear vertical spacing between entries, but Work in progress should not show visible topic tags unless requested.
+- When editing filters, publication status remains the main structure; topic filtering is secondary. Counts should count only actual Published & forthcoming and Working paper entries, not Work in progress or Other publications.
+- Before publishing visual or formatting changes, check rendered output or the generated preview for title/coauthor separation, broken links, abstract toggle behavior, mobile layout, and stale/cached live pages.
 ## Data Page Workflow
 
 - `_pages/datasets.markdown` is the visible Data page and uses the simple `_layouts/datasets.html` content wrapper. Preserve the existing Bulma/content typography unless the user asks for a redesign.
