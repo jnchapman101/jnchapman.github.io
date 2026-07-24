@@ -160,3 +160,6 @@ Published papers searched where no public replication package has been found so 
 ## Website Formatting Documentation
 
 Added a consolidated `Website Formatting Standards` section to `AGENTS.md`. Future agents should use that as the first stop for visible website presentation rules: preserve the existing Bulma/Jekyll design, keep publication details concise on visible pages only, separate titles/coauthors with Markdown blank lines, use safe external-link attributes, preserve accessible abstract toggles, and verify rendered layout before publishing.
+## CV Maintenance Documentation
+
+Added a dedicated `CV Maintenance Workflow` section to `AGENTS.md`. Future agents must preserve existing CV `.tex` versions, create a new version for edits, validate by compiling/checking the PDF, and avoid modifying the website, committing, or publishing until the user explicitly approves the new CV version.

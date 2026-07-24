@@ -79,6 +79,60 @@ For journal articles and similar publications on the website, visible details sh
 
 Hide issue numbers, page ranges, months, and similar formal citation details from visible website presentation unless needed to distinguish a publication. Do not remove those details from formal sources such as CVs, BibTeX, metadata, structured data, or PDFs.
 
+## CV Maintenance Workflow
+
+Follow this workflow whenever the user asks an agent to update the CV in the CV folder.
+
+### Preserve the Existing Version
+
+- Treat the current `.tex` file as the archived previous version.
+- Do not edit or overwrite the existing `.tex` file.
+- Create a new version of the `.tex` file and make all changes only in that new file.
+- Use the project's existing versioning convention. If none exists, use a clear sequential or date-based filename.
+- Never overwrite an existing version.
+
+### Review the Requested Changes
+
+- Apply the changes specified in the user's command.
+- Check the rest of the CV for related information that may now be out of date or inconsistent.
+
+### Check for New Academic Work
+
+- Review the publications and working-papers sections against the relevant pages already on the website.
+- When appropriate, search authoritative external sources for new publications, accepted papers, working papers, updated publication details, journal assignments, volumes, issues, page numbers, DOIs, and co-author information.
+- Prefer official journal pages, publisher pages, DOI records, institutional profiles, and established academic repositories.
+- Do not add uncertain or unverified information.
+- Clearly report anything that requires user confirmation.
+
+### Update and Validate the New Version
+
+- Edit only the newly created `.tex` file.
+- Preserve the existing formatting and style.
+- Compile the new version and resolve any errors introduced by the changes.
+- Check the generated PDF for formatting problems, broken links, incorrect dates, inconsistent citations, and layout issues.
+- Do not modify the website, commit, or publish the changes at this stage.
+
+### Request Review
+
+Before publishing, summarize:
+
+- What was changed.
+- What new or updated information was found.
+- Any information that could not be verified.
+- Any recommended additional edits.
+
+Ask whether the user wants any further changes.
+
+### Publish Only After Confirmation
+
+- Publish only after the user explicitly approves the new version.
+- Make the approved new version the current CV used by the website.
+- Keep the previous `.tex` and PDF files unchanged as the archived prior version.
+- Update the CV page or download link to point to the approved new PDF.
+- Verify that the CV page and download link work correctly.
+- Commit the new source file, generated PDF, website changes, and any version-index changes.
+- Use a clear commit message describing the CV update.
+- Do not commit or publish before receiving explicit confirmation.
 ## Preview and Testing
 
 Expected local preview, if Ruby/Bundler are installed:
