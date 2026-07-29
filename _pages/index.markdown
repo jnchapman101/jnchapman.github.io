@@ -10,13 +10,13 @@ My work in economic history is focused on the development of the British state. 
 My research in behavioral economics focuses on eliciting behavioral preferences in broad populations, as part of the [World Econographics Project](http://www.its.caltech.edu/~snowberg/wep.html). In a series of papers, we use data from incentivized, representative surveys to investigate the relationships between different behavioral preferences, and between economic preferences and socio-demographic characteristics.
 
 **Updates**
+- July 2026: [UPDATED:]({{ site.baseurl }}{% link assets/pdf/selfAssessments.pdf %}) "Reassessing Qualitative Self-Assessments and Experimental Validation."
 - March 2026: Awarded [Russell Sage Foundation Grant](https://www.russellsage.org/research/grants/american-preferences-equalizing-opportunities-versus-redistributing-outcomes)  for "American Preferences for Equalizing Opportunities Versus Redistributing Outcomes."
 - January 2026: Published in the _Journal of the European Economic Association_: ["Democracy, Redistribution, and Inequality: Evidence from the English Poor Law."](https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvag005/8475331)
 - November 2025: [NEW:]({{ site.baseurl }}{% link assets/pdf/Preference_elicitation_chapter FINAL.pdf %}) "Preference Elicitation: Common Methods and Potential Pitfalls.", published in the [Handbook of Experimental Methodology, Vol I](https://www.sciencedirect.com/handbook/handbook-of-experimental-methodology), (edited by Erik Snowberg and Leeat Yariv)
 - September 2025: [UPDATED:]({{ site.baseurl }}{% link assets/pdf/dose for website sep 2025.pdf %}) "Dynamically Optimized Sequential Experimentation (DOSE) for Estimating Economic Preference Parameters."
 - May 2025: [NEW:]({{ site.baseurl }}{% link assets/pdf/jps draft May 2.pdf %}) "Justices of the Peace: Legal Foundations of the Industrial Revolution."
 - March 2025: Awarded _abilitazione_ ("habilitation") for rank of Full Professor in sector 13/A1 (economics).
-- February 2025: [NEW:]({{ site.baseurl }}{% link assets/pdf/selfAssessments.pdf %}) "Reassessing Qualitative Self-Assessments and Experimental Validation."
 - October 2024: Published in the _Review of Economic Studies_: ["Looming Large or Seeming Small? Attitudes Towards Losses in a Representative Sample."]({{ site.baseurl }}{% link assets/pdf/loomingLargeFinal.pdf %})
 - September 2024: [Updated:]({{ site.baseurl }}{% link assets/pdf/WTA_P 2024.pdf %}) "Willingness-to-Accept, Willingness-to-Pay, and Loss Aversion."
 - Jan 2024: Published in the _Journal of Politics_: ["Gradual Franchise Extensions and Government Spending in Nineteenth-Century England"](https://www.journals.uchicago.edu/doi/10.1086/726930).
